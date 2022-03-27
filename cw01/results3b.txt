@@ -1,0 +1,251 @@
+Wyniki zadania 3b są na dole (lub w plikach results_static_opt, results_shared, results_dynamic_opt).
+dla biblioteki statyczniej najlepszymi flagami okazały się -O3 i -O0
+dla biblioteki dzielonej najlepszymi flagami okazały się -02
+dla biblioteki dynamicznej najlepszymi flagami okazały się -O2
+widzimy, ze dodanie flagi -O2 lub -O3 moze znaczaco poprawic dzialanie naszego programu  
+
+biblioteka statyczna:
+    adding and deleting 10 big blocks:
+    real time: 0.519688
+    user time: 0.090000
+    system time: 0.000000
+    adding and deleting 50 big blocks:
+    real time: 1.617324
+    user time: 0.430000
+    system time: 0.020000
+    adding and deleting 100 big blocks:
+    real time: 3.292095
+    user time: 0.870000
+    system time: 0.050000
+    adding and deleting 10 big blocks:
+    real time: 0.515863
+    user time: 0.080000
+    system time: 0.010000
+    adding and deleting 50 big blocks:
+    real time: 1.604159
+    user time: 0.420000
+    system time: 0.040000
+    adding and deleting 100 big blocks:
+    real time: 3.313453
+    user time: 0.860000
+    system time: 0.050000
+    adding and deleting 10 big blocks:
+    real time: 0.510084
+    user time: 0.090000
+    system time: 0.000000
+    adding and deleting 50 big blocks:
+    real time: 1.528173
+    user time: 0.440000
+    system time: 0.010000
+    adding and deleting 100 big blocks:
+    real time: 3.614024
+    user time: 0.860000
+    system time: 0.060000
+    adding and deleting 10 big blocks: <---
+    real time: 0.502665
+    user time: 0.080000
+    system time: 0.000000
+    adding and deleting 50 big blocks: <---
+    real time: 1.571378
+    user time: 0.430000
+    system time: 0.020000
+    adding and deleting 100 big blocks: <---
+    real time: 3.225965
+    user time: 0.850000
+    system time: 0.050000
+    adding and deleting 10 big blocks: <---
+    real time: 0.506255
+    user time: 0.080000
+    system time: 0.000000
+    adding and deleting 50 big blocks: <---
+    real time: 1.687835
+    user time: 0.420000
+    system time: 0.030000
+    adding and deleting 100 big blocks: <---
+    real time: 3.296108
+    user time: 0.830000
+    system time: 0.060000
+    adding and deleting 10 big blocks:
+    real time: 0.501959
+    user time: 0.090000
+    system time: 0.000000
+    adding and deleting 50 big blocks:
+    real time: 1.505189
+    user time: 0.440000
+    system time: 0.010000
+    adding and deleting 100 big blocks:
+    real time: 3.264675
+    user time: 0.850000
+    system time: 0.060000
+
+biblioteka dzielona:
+    adding 1 small block:
+    real time: 0.015206
+    user time: 0.000000
+    system time: 0.000000
+    adding and deleting 10 big blocks:
+    real time: 0.523549
+    user time: 0.090000
+    system time: 0.000000
+    adding and deleting 50 big blocks:
+    real time: 1.689002
+    user time: 0.420000
+    system time: 0.040000
+    adding and deleting 100 big blocks:
+    real time: 3.180539
+    user time: 0.870000
+    system time: 0.050000
+    adding 1 small block:
+    real time: 0.013697
+    user time: 0.000000
+    system time: 0.000000
+    adding and deleting 10 big blocks:
+    real time: 0.506972
+    user time: 0.090000
+    system time: 0.000000
+    adding and deleting 50 big blocks:
+    real time: 2.326283
+    user time: 0.430000
+    system time: 0.030000
+    adding and deleting 100 big blocks:
+    real time: 3.240945
+    user time: 0.870000
+    system time: 0.030000
+    adding 1 small block:
+    real time: 0.016797
+    user time: 0.000000
+    system time: 0.000000
+    adding and deleting 10 big blocks: <---
+    real time: 0.520857
+    user time: 0.080000
+    system time: 0.010000
+    adding and deleting 50 big blocks: <---
+    real time: 1.563469
+    user time: 0.410000
+    system time: 0.040000
+    adding and deleting 100 big blocks: <---
+    real time: 3.189663
+    user time: 0.880000
+    system time: 0.030000
+    adding 1 small block:
+    real time: 0.012948
+    user time: 0.000000
+    system time: 0.000000
+    adding and deleting 10 big blocks:
+    real time: 0.486664
+    user time: 0.090000
+    system time: 0.000000
+    adding and deleting 50 big blocks:
+    real time: 1.795992
+    user time: 0.440000
+    system time: 0.020000
+    adding and deleting 100 big blocks:
+    real time: 3.261054
+    user time: 0.880000
+    system time: 0.040000
+    adding 1 small block:
+    real time: 0.015062
+    user time: 0.000000
+    system time: 0.000000
+    adding and deleting 10 big blocks:
+    real time: 0.503828
+    user time: 0.090000
+    system time: 0.000000
+    adding and deleting 50 big blocks:
+    real time: 1.766269
+    user time: 0.430000
+    system time: 0.020000
+    adding and deleting 100 big blocks:
+    real time: 3.271113
+    user time: 0.880000
+    system time: 0.040000
+    adding 1 small block:
+    real time: 0.015130
+    user time: 0.000000
+    system time: 0.000000
+    adding and deleting 10 big blocks:
+    real time: 0.501560
+    user time: 0.080000
+    system time: 0.000000
+    adding and deleting 50 big blocks:
+    real time: 1.504539
+    user time: 0.450000
+    system time: 0.000000
+    adding and deleting 100 big blocks:
+    real time: 3.288940
+    user time: 0.850000
+    system time: 0.050000
+
+biblioteka dynamicznie ladowana:
+    adding and deleting 10 big blocks:
+    real time: 0.506128
+    user time: 0.090000
+    system time: 0.000000
+    adding and deleting 50 big blocks:
+    real time: 1.764399
+    user time: 0.430000
+    system time: 0.020000
+    adding and deleting 100 big blocks:
+    real time: 3.194524
+    user time: 0.870000
+    system time: 0.040000
+    adding and deleting 10 big blocks:
+    real time: 0.490906
+    user time: 0.080000
+    system time: 0.000000
+    adding and deleting 50 big blocks:
+    real time: 1.639597
+    user time: 0.440000
+    system time: 0.020000
+    adding and deleting 100 big blocks:
+    real time: 3.254359
+    user time: 0.850000
+    system time: 0.060000
+    adding and deleting 10 big blocks: <---
+    real time: 0.509951
+    user time: 0.080000
+    system time: 0.000000
+    adding and deleting 50 big blocks: <---
+    real time: 1.643639
+    user time: 0.440000
+    system time: 0.010000
+    adding and deleting 100 big blocks: <---
+    real time: 3.299529
+    user time: 0.860000
+    system time: 0.050000
+    adding and deleting 10 big blocks:
+    real time: 0.508197
+    user time: 0.080000
+    system time: 0.010000
+    adding and deleting 50 big blocks:
+    real time: 1.668769
+    user time: 0.400000
+    system time: 0.040000
+    adding and deleting 100 big blocks:
+    real time: 4.245691
+    user time: 0.920000
+    system time: 0.020000
+    adding and deleting 10 big blocks:
+    real time: 0.511219
+    user time: 0.090000
+    system time: 0.000000
+    adding and deleting 50 big blocks:
+    real time: 1.871946
+    user time: 0.440000
+    system time: 0.020000
+    adding and deleting 100 big blocks:
+    real time: 3.333632
+    user time: 0.870000
+    system time: 0.050000
+    adding and deleting 10 big blocks:
+    real time: 0.503456
+    user time: 0.090000
+    system time: 0.000000
+    adding and deleting 50 big blocks:
+    real time: 1.717086
+    user time: 0.440000
+    system time: 0.010000
+    adding and deleting 100 big blocks:
+    real time: 3.313191
+    user time: 0.890000
+    system time: 0.030000

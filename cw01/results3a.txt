@@ -1,0 +1,64 @@
+Wyniki zadania 3a są na dole (lub w plikach results_static, results_shared, results_dynamic).
+Wnioski (nalezy wziac pod uwage, ze testy byly przeprowadzane na maszynie wirtualnej, na dosc wolnym sprzecie, wiec nie musza oddawac wynikow w ogolnosci):
+dla jednego małego pliku wszystkie biblioteki poradzily sobie tak samo
+dla 10 duzych plikow roznice sa niesamowicie male
+dla 50 duzych plikow roznice znow sa bardzo male ale biblioteka statyczna poradzila sobie najlepiej
+dla 100 duzych plikow biblioteka statyczna i dzielona miala znacznie mniejszy czas jadra, i obie maja troche wiekszy czas uzytkownika
+roznice sa generalnie niewielkie, a przeprowadzajac je wielokrotnie zauwazylem, ze sa bardzo podobne, ale jednak moga sie zmieniac
+
+wyniki biblioteki statycznej:
+    adding 1 small block:
+    real time: 0.012511
+    user time: 0.000000
+    system time: 0.000000
+    adding and deleting 10 big blocks:
+    real time: 0.527085
+    user time: 0.080000
+    system time: 0.010000
+    adding and deleting 50 big blocks:
+    real time: 1.854278
+    user time: 0.450000
+    system time: 0.020000
+    adding and deleting 100 big blocks:
+    real time: 3.354806
+    user time: 0.880000
+    system time: 0.050000
+
+wyniki biblioteki dzielonej:
+    adding 1 small block:
+    real time: 0.019006
+    user time: 0.000000
+    system time: 0.000000
+    adding and deleting 10 big blocks:
+    real time: 0.534368
+    user time: 0.090000dla malej liczby plikow biblioteka statyczna poradzila sobie najlepiej, ale roznica w czasie jest bardzo mala (0.01 czasu uzytkownika i systemowego do pozostalych)
+dla sredniej liczby plikow biblioteka statyczna i dzielona poradzily sobie tak samo szybko, o drobine szybciej niz dynamicznie ladowana (o 0.02 czasu uzytkownika i systemowego)
+dla duzej liczby plikow biblioteka dynamicznie ladowana poradzila sobie najlepiej (0.03 czasu uzytkownika i systemowego szybiej od pozostalych)
+jak widac roznice sa bardzo male i wyniki moga byc podyktowane innymi procesami w tle komputera.
+    system time: 0.000000
+    adding and deleting 50 big blocks:
+    real time: 1.704392
+    user time: 0.470000
+    system time: 0.010000
+    adding and deleting 100 big blocks:
+    real time: 3.406316
+    user time: 0.890000
+    system time: 0.050000
+
+wyniki dla biblioteki ładowanej dynamicznie:
+    adding 1 small block:
+    real time: 0.015217
+    user time: 0.000000
+    system time: 0.000000
+    adding and deleting 10 big blocks:
+    real time: 0.534049
+    user time: 0.090000
+    system time: 0.000000
+    adding and deleting 50 big blocks:
+    real time: 2.329761
+    user time: 0.440000
+    system time: 0.030000
+    adding and deleting 100 big blocks:
+    real time: 3.552834
+    user time: 0.850000
+    system time: 0.080000

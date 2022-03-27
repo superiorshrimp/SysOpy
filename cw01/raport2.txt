@@ -1,0 +1,121 @@
+time measurments:
+counting parameters of 1 small file:
+real time: 0.017939
+user time: 0.000000
+system time: 0.000000
+counting parameters of 5 small files:
+real time: 0.072584
+user time: 0.000000
+system time: 0.000000
+counting parameters of 10 small files:
+real time: 0.163104
+user time: 0.000000
+system time: 0.000000
+counting parameters of 1 medium file:
+real time: 0.015451
+user time: 0.000000
+system time: 0.000000
+counting parameters of 5 medium files:
+real time: 0.093046
+user time: 0.000000
+system time: 0.000000
+counting parameters of 10 medium files:
+real time: 0.155799
+user time: 0.000000
+system time: 0.000000
+counting parameters of 1 big file:
+real time: 0.030831
+user time: 0.000000
+system time: 0.000000
+counting parameters of 5 big files:
+real time: 0.173981
+user time: 0.000000
+system time: 0.000000
+counting parameters of 10 big files:
+real time: 0.350561
+user time: 0.000000
+system time: 0.000000
+copying 1 small file:
+real time: 0.004600
+user time: 0.000000
+system time: 0.000000
+copying 5 small files:
+real time: 0.030550
+user time: 0.000000
+system time: 0.000000
+copying 10 small files:
+real time: 0.050860
+user time: 0.000000
+system time: 0.000000
+copying 1 medium file:
+real time: 0.007716
+user time: 0.000000
+system time: 0.000000
+copying 5 medium files:
+real time: 0.029741
+user time: 0.000000
+system time: 0.000000
+copying 10 medium files:
+real time: 0.062887
+user time: 0.000000
+system time: 0.000000
+copying 1 big file:
+real time: 0.019700
+user time: 0.000000
+system time: 0.000000
+copying 5 big files:
+real time: 0.134116
+user time: 0.040000
+system time: 0.000000
+copying 10 big files:
+real time: 0.240500
+user time: 0.090000
+system time: 0.000000
+deleting 1 small block:
+real time: 0.029411
+user time: 0.000000
+system time: 0.000000
+deleting 5 small blocks:
+real time: 0.074278
+user time: 0.000000
+system time: 0.000000
+deleting 10 small blocks:
+real time: 0.155534
+user time: 0.000000
+system time: 0.000000
+deleting 1 medium block:
+real time: 0.020008
+user time: 0.000000
+system time: 0.000000
+deleting 5 medium blocks:
+real time: 0.088108
+user time: 0.000000
+system time: 0.000000
+deleting 10 medium blocks:
+real time: 0.162137
+user time: 0.000000
+system time: 0.000000
+deleting 1 big block:
+real time: 0.052425
+user time: 0.000000
+system time: 0.000000
+deleting 5 big blocks:
+real time: 0.269021
+user time: 0.040000
+system time: 0.000000
+deleting 10 big blocks:
+real time: 0.411028
+user time: 0.080000
+system time: 0.010000
+adding and deleting 10 big block:
+real time: 0.539157
+user time: 0.090000
+system time: 0.000000
+adding and deleting 50 big block:
+real time: 1.545063
+user time: 0.420000
+system time: 0.030000
+adding and deleting 100 big block:
+real time: 3.320199
+user time: 0.900000
+system time: 0.050000

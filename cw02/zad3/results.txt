@@ -1,0 +1,320 @@
+folder1
+path: ./sample_dirs/folder1
+links: 4
+type: directory
+size: 4096
+last modification: 1647462892
+last access: 1647689843
+
+1file1.txt
+path: ./sample_dirs/folder1/1file1.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462888
+last access: 1647462940
+
+dir1
+path: ./sample_dirs/folder1/dir1
+links: 2
+type: directory
+size: 4096
+last modification: 1647462908
+last access: 1647689843
+
+2file1.txt
+path: ./sample_dirs/folder1/dir1/2file1.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462903
+last access: 1647462940
+
+2file3.txt
+path: ./sample_dirs/folder1/dir1/2file3.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462908
+last access: 1647462940
+
+2file2.txt
+path: ./sample_dirs/folder1/dir1/2file2.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462906
+last access: 1647462940
+
+dir2
+path: ./sample_dirs/folder1/dir2
+links: 2
+type: directory
+size: 4096
+last modification: 1647462870
+last access: 1647689843
+
+1file2.txt
+path: ./sample_dirs/folder1/1file2.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462892
+last access: 1647462940
+
+0file1.txt
+path: ./sample_dirs/0file1.txt
+links: 2
+type: file
+size: 13
+last modification: 1647515417
+last access: 1647515421
+
+folder 3
+path: ./sample_dirs/folder 3
+links: 3
+type: directory
+size: 4096
+last modification: 1647462951
+last access: 1647689843
+
+folder2
+path: ./sample_dirs/folder 3/folder2
+links: 3
+type: directory
+size: 4096
+last modification: 1647462940
+last access: 1647689843
+
+folder1
+path: ./sample_dirs/folder 3/folder2/folder1
+links: 5
+type: directory
+size: 4096
+last modification: 1647462954
+last access: 1647689843
+
+1file1.txt
+path: ./sample_dirs/folder 3/folder2/folder1/1file1.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462888
+last access: 1647462951
+
+folder2
+path: ./sample_dirs/folder 3/folder2/folder1/folder2
+links: 3
+type: directory
+size: 4096
+last modification: 1647462940
+last access: 1647689843
+
+folder1
+path: ./sample_dirs/folder 3/folder2/folder1/folder2/folder1
+links: 4
+type: directory
+size: 4096
+last modification: 1647462892
+last access: 1647689843
+
+1file1.txt
+path: ./sample_dirs/folder 3/folder2/folder1/folder2/folder1/1file1.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462888
+last access: 1647462954
+
+dir1
+path: ./sample_dirs/folder 3/folder2/folder1/folder2/folder1/dir1
+links: 2
+type: directory
+size: 4096
+last modification: 1647462908
+last access: 1647689843
+
+2file1.txt
+path: ./sample_dirs/folder 3/folder2/folder1/folder2/folder1/dir1/2file1.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462903
+last access: 1647462954
+
+2file3.txt
+path: ./sample_dirs/folder 3/folder2/folder1/folder2/folder1/dir1/2file3.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462908
+last access: 1647462954
+
+2file2.txt
+path: ./sample_dirs/folder 3/folder2/folder1/folder2/folder1/dir1/2file2.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462906
+last access: 1647462954
+
+dir2
+path: ./sample_dirs/folder 3/folder2/folder1/folder2/folder1/dir2
+links: 2
+type: directory
+size: 4096
+last modification: 1647462870
+last access: 1647689843
+
+1file2.txt
+path: ./sample_dirs/folder 3/folder2/folder1/folder2/folder1/1file2.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462892
+last access: 1647462954
+
+dir1
+path: ./sample_dirs/folder 3/folder2/folder1/dir1
+links: 2
+type: directory
+size: 4096
+last modification: 1647462908
+last access: 1647689843
+
+2file1.txt
+path: ./sample_dirs/folder 3/folder2/folder1/dir1/2file1.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462903
+last access: 1647462951
+
+2file3.txt
+path: ./sample_dirs/folder 3/folder2/folder1/dir1/2file3.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462908
+last access: 1647462951
+
+2file2.txt
+path: ./sample_dirs/folder 3/folder2/folder1/dir1/2file2.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462906
+last access: 1647462951
+
+dir2
+path: ./sample_dirs/folder 3/folder2/folder1/dir2
+links: 2
+type: directory
+size: 4096
+last modification: 1647462870
+last access: 1647689843
+
+1file2.txt
+path: ./sample_dirs/folder 3/folder2/folder1/1file2.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462892
+last access: 1647462951
+
+symlink1
+path: ./sample_dirs/symlink1
+links: 2
+type: symlink
+size: 13
+last modification: 1647515417
+last access: 1647515421
+
+hardlink1
+path: ./sample_dirs/hardlink1
+links: 2
+type: file
+size: 13
+last modification: 1647515417
+last access: 1647515421
+
+folder2
+path: ./sample_dirs/folder2
+links: 3
+type: directory
+size: 4096
+last modification: 1647463835
+last access: 1647689843
+
+folder1
+path: ./sample_dirs/folder2/folder1
+links: 4
+type: directory
+size: 4096
+last modification: 1647462892
+last access: 1647689843
+
+1file1.txt
+path: ./sample_dirs/folder2/folder1/1file1.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462888
+last access: 1647462951
+
+dir1
+path: ./sample_dirs/folder2/folder1/dir1
+links: 2
+type: directory
+size: 4096
+last modification: 1647462908
+last access: 1647689843
+
+2file1.txt
+path: ./sample_dirs/folder2/folder1/dir1/2file1.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462903
+last access: 1647462951
+
+2file3.txt
+path: ./sample_dirs/folder2/folder1/dir1/2file3.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462908
+last access: 1647462951
+
+2file2.txt
+path: ./sample_dirs/folder2/folder1/dir1/2file2.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462906
+last access: 1647462951
+
+dir2
+path: ./sample_dirs/folder2/folder1/dir2
+links: 2
+type: directory
+size: 4096
+last modification: 1647462870
+last access: 1647689843
+
+1file2.txt
+path: ./sample_dirs/folder2/folder1/1file2.txt
+links: 1
+type: file
+size: 0
+last modification: 1647462892
+last access: 1647462951
+
+symlinkfold1
+path: ./sample_dirs/symlinkfold1
+links: 4
+type: symlink
+size: 4096
+last modification: 1647462892
+last access: 1647689843
+

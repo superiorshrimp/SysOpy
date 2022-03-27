@@ -1,0 +1,16 @@
+adding 1 small block:
+real time: 0.012511
+user time: 0.000000
+system time: 0.000000
+adding and deleting 10 big blocks:
+real time: 0.527085
+user time: 0.080000
+system time: 0.010000
+adding and deleting 50 big blocks:
+real time: 1.854278
+user time: 0.450000
+system time: 0.020000
+adding and deleting 100 big blocks:
+real time: 3.354806
+user time: 0.880000
+system time: 0.050000

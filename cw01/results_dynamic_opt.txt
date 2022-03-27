@@ -1,0 +1,72 @@
+adding and deleting 10 big blocks:
+real time: 0.506128
+user time: 0.090000
+system time: 0.000000
+adding and deleting 50 big blocks:
+real time: 1.764399
+user time: 0.430000
+system time: 0.020000
+adding and deleting 100 big blocks:
+real time: 3.194524
+user time: 0.870000
+system time: 0.040000
+adding and deleting 10 big blocks:
+real time: 0.490906
+user time: 0.080000
+system time: 0.000000
+adding and deleting 50 big blocks:
+real time: 1.639597
+user time: 0.440000
+system time: 0.020000
+adding and deleting 100 big blocks:
+real time: 3.254359
+user time: 0.850000
+system time: 0.060000
+adding and deleting 10 big blocks:
+real time: 0.509951
+user time: 0.080000
+system time: 0.000000
+adding and deleting 50 big blocks:
+real time: 1.643639
+user time: 0.440000
+system time: 0.010000
+adding and deleting 100 big blocks:
+real time: 3.299529
+user time: 0.860000
+system time: 0.050000
+adding and deleting 10 big blocks:
+real time: 0.508197
+user time: 0.080000
+system time: 0.010000
+adding and deleting 50 big blocks:
+real time: 1.668769
+user time: 0.400000
+system time: 0.040000
+adding and deleting 100 big blocks:
+real time: 4.245691
+user time: 0.920000
+system time: 0.020000
+adding and deleting 10 big blocks:
+real time: 0.511219
+user time: 0.090000
+system time: 0.000000
+adding and deleting 50 big blocks:
+real time: 1.871946
+user time: 0.440000
+system time: 0.020000
+adding and deleting 100 big blocks:
+real time: 3.333632
+user time: 0.870000
+system time: 0.050000
+adding and deleting 10 big blocks:
+real time: 0.503456
+user time: 0.090000
+system time: 0.000000
+adding and deleting 50 big blocks:
+real time: 1.717086
+user time: 0.440000
+system time: 0.010000
+adding and deleting 100 big blocks:
+real time: 3.313191
+user time: 0.890000
+system time: 0.030000

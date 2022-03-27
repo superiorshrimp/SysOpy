@@ -1,0 +1,96 @@
+adding 1 small block:
+real time: 0.015206
+user time: 0.000000
+system time: 0.000000
+adding and deleting 10 big blocks:
+real time: 0.523549
+user time: 0.090000
+system time: 0.000000
+adding and deleting 50 big blocks:
+real time: 1.689002
+user time: 0.420000
+system time: 0.040000
+adding and deleting 100 big blocks:
+real time: 3.180539
+user time: 0.870000
+system time: 0.050000
+adding 1 small block:
+real time: 0.013697
+user time: 0.000000
+system time: 0.000000
+adding and deleting 10 big blocks:
+real time: 0.506972
+user time: 0.090000
+system time: 0.000000
+adding and deleting 50 big blocks:
+real time: 2.326283
+user time: 0.430000
+system time: 0.030000
+adding and deleting 100 big blocks:
+real time: 3.240945
+user time: 0.870000
+system time: 0.030000
+adding 1 small block:
+real time: 0.016797
+user time: 0.000000
+system time: 0.000000
+adding and deleting 10 big blocks:
+real time: 0.520857
+user time: 0.080000
+system time: 0.010000
+adding and deleting 50 big blocks:
+real time: 1.563469
+user time: 0.410000
+system time: 0.040000
+adding and deleting 100 big blocks:
+real time: 3.189663
+user time: 0.880000
+system time: 0.030000
+adding 1 small block:
+real time: 0.012948
+user time: 0.000000
+system time: 0.000000
+adding and deleting 10 big blocks:
+real time: 0.486664
+user time: 0.090000
+system time: 0.000000
+adding and deleting 50 big blocks:
+real time: 1.795992
+user time: 0.440000
+system time: 0.020000
+adding and deleting 100 big blocks:
+real time: 3.261054
+user time: 0.880000
+system time: 0.040000
+adding 1 small block:
+real time: 0.015062
+user time: 0.000000
+system time: 0.000000
+adding and deleting 10 big blocks:
+real time: 0.503828
+user time: 0.090000
+system time: 0.000000
+adding and deleting 50 big blocks:
+real time: 1.766269
+user time: 0.430000
+system time: 0.020000
+adding and deleting 100 big blocks:
+real time: 3.271113
+user time: 0.880000
+system time: 0.040000
+adding 1 small block:
+real time: 0.015130
+user time: 0.000000
+system time: 0.000000
+adding and deleting 10 big blocks:
+real time: 0.501560
+user time: 0.080000
+system time: 0.000000
+adding and deleting 50 big blocks:
+real time: 1.504539
+user time: 0.450000
+system time: 0.000000
+adding and deleting 100 big blocks:
+real time: 3.288940
+user time: 0.850000
+system time: 0.050000

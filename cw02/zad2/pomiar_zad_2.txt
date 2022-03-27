@@ -1,0 +1,17 @@
+Algorytmy sa analogiczne i widac tutaj, ze dla duzego pliku calle systemowe sa szybsze (plik ma około 50k linijek) niz funkcje stdlib.
+
+calle systemowe:
+    real time: 0.084429 <- duzy plik
+    user time: 0.030000 <- duzy plik
+    system time: 0.000000 <- duzy plik
+    real time: 0.001823
+    user time: 0.000000
+    system time: 0.000000
+
+funkcje stdlib:
+    real time: 0.120111 <- duzy plik
+    user time: 0.050000 <- duzy plik
+    system time: 0.000000 <- duzy plik
+    real time: 0.001202
+    user time: 0.000000
+    system time: 0.000000
