@@ -1,0 +1,3 @@
+wnioski:
+    przy funkcji kill i sigqueue zauwazamy strate duzej liczby sygnalow
+    przy real time sygnalach sa one zawsze dostarczane (przynajmniej w testowanych przykladach)

@@ -1,0 +1,12 @@
+ignore:
+    fork i exec dziedzicza ignore
+
+handler:
+    fork dziedziczy handler (zgodnie z poleceniem: exec dla handlera nie jest sprawdzany)
+
+mask:
+    fork i exec dziedzicza maskowanie
+    
+pending:
+    wyslany sygnal nie oczekuje w forku
+    oczekuje natomiast w execu
