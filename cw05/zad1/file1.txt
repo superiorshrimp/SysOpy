@@ -1,0 +1,7 @@
+składnik1 = cat /etc/passwd | wc -l | grep 32 | grep 32
+składnik2 = ls -l | grep akefile
+składnik3 = grep 32
+
+składnik1 | składnik3
+składnik1
+składnik2

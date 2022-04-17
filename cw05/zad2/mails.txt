@@ -1,0 +1,9 @@
+Heirloom mailx version 12.5 6/20/10.  Type ? for help.
+"/var/mail/enlightened": 7 messages 3 unread
+ O  1 Enlightened        Sat Dec  6 11:33   21/658   This is the subject
+ O  2 Enlightened        Sat Dec  6 11:34  773/25549 This is the subject
+ O  3 Enlightened        Sat Dec  6 16:43   20/633   This is the subject
+ O  4 Enlightened        Sat Dec  6 16:44   20/633   This is the subject
+ U  5 Mail Delivery Syst Sat Dec  6 16:50   74/2425  Undelivered Mail Returned to Sender
+ U  6 Enlightened        Sat Dec  6 16:51   19/632   This is mutts subject
+ U  7 Enlightened        Sat Dec  6 16:52   19/647   This is mutts subject
