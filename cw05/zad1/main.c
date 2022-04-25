@@ -312,14 +312,20 @@ int main(int argc, char* args[]){
                         dup2(fds[1], STDOUT_FILENO); //out
                         close(fds[1]);
                     }
-                    dup2(prev, STDIN_FILENO); //in
-                    close(prev);
-
+                    if(j != 0 || l != 0){
+                        dup2(prev, STDIN_FILENO); //in
+                        close(prev);
+                    }
+                    else{
+                        close(fds[0]);
+                    }
                     execvp(todo[i]->components[j]->commands[l]->program, argz);
                     exit(1);
                 }
                 else{
-                    close(prev);
+                    if(j != 0 || l != 0){
+                        close(prev);
+                    }
                     close(fds[1]);
                     prev = fds[0];
                 }

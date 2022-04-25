@@ -24,7 +24,7 @@ Heirloom mailx version 12.5 6/20/10.  Type ? for help.
 void print(char* arg){
     FILE* f;
     if(strcmp(arg, "nadawca") == 0){
-        f = popen("mail | tail +3 | sort -k3", "w");//popen("cat mails.txt | tail +3 | sort -k3", "w"); //sort by column 3
+        f = popen("mail | tail +3 | sort -k3", "w"); //popen("cat mails.txt | tail +3 | sort -k3", "w"); //sort by column 3
     }
     else if(strcmp(arg, "data") == 0){ //default sorting
         f = popen("mail | tail +3", "w"); //popen("cat mails.txt | tail +3", "w"); //+3 to cut the header (2 lines)
