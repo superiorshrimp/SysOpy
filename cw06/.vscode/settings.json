@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ipc.h": "c",
+        "time.h": "c",
+        "*.tcc": "c",
+        "system_error": "c"
+    }
+}
