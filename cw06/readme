@@ -1,0 +1,7 @@
+zrobione zadania:
+    1. wszystko
+    2. wszystko
+
+uwaga:
+1. komenda na wyslanie wiadomosci prywatnej to 2ONEX TRESC, gdzie X to adresat (bez spacji)
+2. w zadaniu 2. wlaczajac klientow nalezy podac jego id (nie jest one weryfikowane, ale musi byc od 0 do 7) np: ./client 0
