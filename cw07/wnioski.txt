@@ -1,0 +1,2 @@
+program dziala poprawnie niezaleznie od wielkosci N i M
+jednak dla N i M wiekszych od OVEN i TABLE moze dosc do zaglodzenia
