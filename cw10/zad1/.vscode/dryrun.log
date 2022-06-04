@@ -1,7 +1,0 @@
-make --dry-run --keep-going --print-directory
-make: Entering directory '/home/ranyjulek/sysopy/ZychowiczSzymon/cw10/zad1'
-rm -f server client
-gcc server.c -o server -lpthread -Wall
-gcc client.c -o client -Wall
-make: Leaving directory '/home/ranyjulek/sysopy/ZychowiczSzymon/cw10/zad1'
- 
