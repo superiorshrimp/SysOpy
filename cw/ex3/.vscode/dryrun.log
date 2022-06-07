@@ -1,0 +1,8 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/ranyjulek/sysopy/ZychowiczSzymon/cw/ex3'
+rm -f main
+gcc main.c -o main -Wall -lpthread
+./main
+rm -f main
+make: Leaving directory '/home/ranyjulek/sysopy/ZychowiczSzymon/cw/ex3'
+ 
